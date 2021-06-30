@@ -69,6 +69,7 @@ http://eogus0779@gmail.com/
 ```
 
 ## 🧸 봉사활동
+
 <img src="https://user-images.githubusercontent.com/55431809/123637226-bd533280-d858-11eb-8759-5b9bea68b9fc.JPG" width="980px" height="230px" title="px(픽셀)" align="left"></img><br/>
 
 ## 🖥 SW Language
