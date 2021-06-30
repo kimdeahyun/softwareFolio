@@ -22,8 +22,8 @@ http://eogus0779@gmail.com/
 #### 4. [학력](https://github.com/kimdeahyun/Engineering-Comm./blob/main/README.md#-%ED%95%99%EB%A0%A5)
 #### 5. [좌우명](https://github.com/kimdeahyun/Engineering-Comm./blob/main/README.md#-%EC%A2%8C%EC%9A%B0%EB%AA%85)
 #### 6. [봉사활동](https://github.com/kimdeahyun/Engineering-Comm./blob/main/README.md#-%EB%B4%89%EC%82%AC%ED%99%9C%EB%8F%99)
-#### 7. [SW Language]
-#### 8. [경력](https://github.com/kimdeahyun/softwareFolio/blob/main/README.md#-%EA%B2%BD%EB%A0%A5)
+#### 7. [경력](https://github.com/kimdeahyun/softwareFolio/blob/main/README.md#-%EA%B2%BD%EB%A0%A5)
+#### 8. [SW Language] (https://github.com/kimdeahyun/softwareFolio/blob/main/README.md#-sw-language-1)
 #### 9. [프로젝트](https://github.com/kimdeahyun/softwareFolio/blob/main/README.md#-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 
 ## 🙋‍♀️ 소개
@@ -72,14 +72,6 @@ http://eogus0779@gmail.com/
 
 <img src="https://user-images.githubusercontent.com/55431809/123637226-bd533280-d858-11eb-8759-5b9bea68b9fc.JPG" width="980px" height="230px" title="px(픽셀)" align="left"></img><br/>
 
-## 🖥 SW Language
-
-```
-1. JAVA
-2. C
-3. HTML
-4. C++
-```
 
 ## 📋 경력
 
