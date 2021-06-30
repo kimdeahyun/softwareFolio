@@ -23,7 +23,7 @@ http://eogus0779@gmail.com/
 #### 5. [좌우명](https://github.com/kimdeahyun/Engineering-Comm./blob/main/README.md#-%EC%A2%8C%EC%9A%B0%EB%AA%85)
 #### 6. [봉사활동](https://github.com/kimdeahyun/Engineering-Comm./blob/main/README.md#-%EB%B4%89%EC%82%AC%ED%99%9C%EB%8F%99)
 #### 6. [SW Language]
-#### 6. [경력]
+#### 6. [경력](https://github.com/kimdeahyun/softwareFolio#-%EA%B2%BD%EB%A0%A5)
 #### 6. [프로젝트]
 
 ## 🙋‍♀️ 소개
