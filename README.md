@@ -92,6 +92,15 @@ http://eogus0779@gmail.com/
 끈기도 생겨서 끝까지 버틸 수 있었습니다. 
 ```
 
+## 🖥 SW Language
+
+```
+1. JAVA
+2. C
+3. HTML
+4. C++
+```
+
 ## 📈 프로젝트 
 
 [UP AND DOWN 최종 프로젝트.pptx](https://github.com/kimdeahyun/Engineering-Comm./files/6737256/UP.AND.DOWN.pptx)
